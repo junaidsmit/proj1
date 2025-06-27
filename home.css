@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#head {
+    display: flex;
+    border: 0.15rem solid #0000ff;
+    height: 12vh;
+    | font-size: 1.5rem;
+    color: #00d000;
+}
+
+#logo {
+    padding: 0.9rem 5rem 0 8rem;
+    font-size: 3rem;
+}
+
+#headitm {
+    text-decoration: none;
+    padding: 2rem 0 0 8rem;
+    font-size: 1.2rem;
+}
+
+marquee {
+    display: flex;
+    height: 8vh;
+    background-color: greenyellow;
+    border: 0.1rem solid #009f00
+}
+
+#txt {
+    display: inline-block;
+    position: relative;
+    top: 1rem;
+    font-size: 2rem;
+}
+
+#btn {
+    margin: 0 0 0 30px;
+    height: 6vh;
+    background-color: #00f999;
+    border: 1px solid black;
+    position: relative;
+    top: 0.5rem;
+
+}
+
+#btnhrf {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #0000ff;
+}
+
+#txtaln {
+    font-size: 1.5rem;
+    line-height: 40px;
+}
+
+
+
+footer {display: flex;
+    border: 2px solid #0000ff;
+    font-size: 1.5rem;
+    color: #00d000;
+    height: 4rem;
+    margin:1.5rem 0 0 0;
+    
+    }
+    #footitm{padding:2rem 0 0 14rem;}
+
+#itm13 {
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    border: 20px solid aqua;
+    border-radius: 15px 50px;
+    height: 50vh;
+    width: 70vw;
+    background-color: black;
+}
+
+.itm12 {
+    margin: 1%;
+    width: 66vw;
+    height: 41vh;
+    line-height: 9rem;
+    font-size: 3rem;
+    text-align: center;
+    background-color: brown;
+    color: yellow;
+    border: 20px solid black;
+    border-radius: 50px 15px;
+}
+
+#itm14 {
+    padding: 10px 0 0 40px;
+    position: absolute;
+    bottom: 15%;
+    left: 40%;
+    border: 4px solid red;
+    border-radius: 20px;
+    height: 7vh;
+    width: 15vw;
+    background-color: black;
+    font-size: 2rem;
+}
+
+#itm1 {
+    height: 20vh;
+    margin: 0 0 0 35%;
+}
+
+#itm10 {
+    text-decoration: none;
+    padding: 0 0 0 200px;
+}
